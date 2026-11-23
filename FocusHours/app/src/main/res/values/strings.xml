@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Focus Hours</string>
+    <string name="service_label">Focus Hours app lock</string>
+    <string name="service_description">Lets Focus Hours notice when you open an app you have locked, so it can block it outside your allowed hours. It does not read what is on your screen.</string>
+</resources>

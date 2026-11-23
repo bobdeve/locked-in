@@ -1,0 +1,14 @@
+<resources>
+    <style name="AppTheme" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:colorAccent">#2F6BFF</item>
+        <item name="android:colorPrimary">#2F6BFF</item>
+        <item name="android:statusBarColor">#0E2238</item>
+        <item name="android:windowBackground">@android:color/white</item>
+    </style>
+    <style name="BlockTheme" parent="android:Theme.Material.NoActionBar">
+        <item name="android:colorAccent">#2F6BFF</item>
+        <item name="android:statusBarColor">#0E2238</item>
+        <item name="android:navigationBarColor">#0E2238</item>
+        <item name="android:windowBackground">@android:color/black</item>
+    </style>
+</resources>
